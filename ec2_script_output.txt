@@ -1,0 +1,8 @@
+AMI lookup found 60 matching images
+Selected AMI: ami-002db1d61667182d2
+Instance ID: i-06a313a853ca4b777
+Instance is running
+Public IP: 54.227.56.222
+Tags before update: None
+Tags after update: [{'Key': 'Name', 'Value': 'Jeffrey'}]
+Instance is terminated
